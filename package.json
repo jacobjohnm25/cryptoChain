@@ -1,0 +1,19 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "description": "A Full Stack blockchain cryptocurrency ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "blockchain",
+    "coinbase",
+    "cryptocurrency"
+  ],
+  "author": "Jacob John Manayil",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
